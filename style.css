@@ -1,0 +1,40 @@
+body {
+    background-color: white;
+    margin-right: 5%;
+    margin-left: 5%;
+    background-color: #171616;
+}
+
+h1,
+p {
+    color: white;
+}
+
+section {
+    border-top: 1px solid white;
+    display: block;
+    float: left;
+    width: 60%;
+}
+
+#yo {
+    width: 35%;
+    float: left;
+    padding-left: 20px;
+}
+
+footer {
+    clear: both;
+    width: 60%;
+    text-align: center;
+    border-top: 1px solid white;
+}
+
+footer ul {
+    list-style: none;
+}
+
+footer ul li {
+    display: inline-block;
+    padding-right: 10px;
+}
